@@ -17,4 +17,8 @@ Styling in markdown -
 
 **Table of content**
 
-1.  
+1. Learn C programming 
+1. Learn C++
+1. Learn Bash Scripting
+1. Learn Linux Fundamentals
+
