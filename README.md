@@ -73,3 +73,9 @@ Nesting block quotes -
 >> Hare krsna, hare krsna, krsna krsna, hare hare.
 >>
 >> Hare rama, hare rama, rama rama, hare hare.
+
+To create a link - 
+
+[Learn C programming](#learn-c-programming)
+
+[Visit my website](https://nsinha.me)
