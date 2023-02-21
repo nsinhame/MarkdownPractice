@@ -17,8 +17,24 @@ Styling in markdown -
 
 **Table of content**
 
-1. Learn C programming 
 1. Learn C++
+1. Learn C programming 
 1. Learn Bash Scripting
 1. Learn Linux Fundamentals
 
+
+## Learn C++
+
+Install compiler for C : `sudo pacman -S gcc`
+
+## Learn C programming  
+
+Hello world program in C++
+```
+#include<stdio.h>
+int main(){
+    printf("Hello World!!");
+
+    return 0;
+}
+```
