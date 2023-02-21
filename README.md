@@ -73,19 +73,3 @@ Nesting block quotes -
 >> Hare krsna, hare krsna, krsna krsna, hare hare.
 >>
 >> Hare rama, hare rama, rama rama, hare hare.
-
-
-
-
-
-
-
-```c
-#include<stdio.h>
-
-int main(){
-    printf("Hello World!!");
-
-    return 0;
-}
-```
