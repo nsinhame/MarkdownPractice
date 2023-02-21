@@ -126,8 +126,11 @@ Do these 3 things for becoming successful -
 To create foot notes use [^1] or [^a] to create as many foot notes you want.
 
 
+## Happy Ending
 
+We come to the end of the tutorial. It was cool learning markdown. 
 
+I learnt this from YT channel [Faraday Academy](https://www.youtube.com/@FaradayAcademy) using this [video](https://www.youtube.com/watch?v=bTVIMt3XllM).
 
 
 
