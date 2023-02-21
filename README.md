@@ -107,3 +107,42 @@ To create a task list use list and a square brackets.
 | Anime? | Attack on Titan |
 | Sports? | Chess, Badminton |
 
+
+## Collapseable Element
+
+To create collapsable element -
+
+<details>
+<summary>How to become successful?</summary>
+Do these 3 things for becoming successful -
+
+- Hard Work
+- Smart Work
+- Consistency
+</details>
+
+## Foot notes
+
+To create foot notes use [^1] or [^a] to create as many foot notes you want.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Footer 
+
+[^1]: This article was written by Nikhil.
+[^a]: This article was edited by Sinha.
