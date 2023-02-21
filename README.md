@@ -82,4 +82,4 @@ To create a link -
 
 To add images- 
 
-![Bugs](./buggy.jpg)
+[![Bugs](./buggy.jpg)](https://nsinha.me)
