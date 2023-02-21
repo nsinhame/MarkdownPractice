@@ -95,3 +95,15 @@ To create a task list use list and a square brackets.
 - [x] Task 3
 - [ ] Task 4
 - [ ] Task 5
+
+
+## Tables 
+
+| Questions | Answers |
+| :---: | :---: |
+| Movies? | Jerry Maguire, Now You See Me, The Notebook |
+| TV Shows? |  	F.R.I.E.N.D.S, Young Sheldon, The Flash |
+| Games? | Mini Militia, PUBG(BGMI), Prince Of Persia(WW, T2T, SOT) |
+| Anime? | Attack on Titan |
+| Sports? | Chess, Badminton |
+
