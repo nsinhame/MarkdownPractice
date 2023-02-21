@@ -79,3 +79,7 @@ To create a link -
 [Learn C programming](#learn-c-programming)
 
 [Visit my website](https://nsinha.me)
+
+To add images- 
+
+![Bugs](./buggy.jpg)
