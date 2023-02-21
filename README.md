@@ -25,11 +25,11 @@ Styling in markdown -
 
 ## Learn C++
 
-Install compiler for C : `sudo pacman -S gcc`
+First learn how to install compiler for C/C++ : `sudo pacman -S gcc`
 
 ## Learn C programming  
 
-Hello world program in C++
+Hello world program in C -
 ```
 #include<stdio.h>
 int main(){
