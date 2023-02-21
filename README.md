@@ -32,9 +32,13 @@ First learn how to install compiler for C/C++ : `sudo pacman -S gcc`
 Hello world program in C -
 ```c
 #include<stdio.h>
+
 int main(){
     printf("Hello World!!");
 
     return 0;
 }
 ```
+
+To add horizontal line use three dashes(-).
+---
