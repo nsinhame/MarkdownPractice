@@ -83,3 +83,15 @@ To create a link -
 To add images- 
 
 [![Bugs](./buggy.jpg)](https://nsinha.me)
+
+MD supports HTML tags. <br><b><u><i>You can use it for more formatting options.</i></u></b>
+
+## Task list
+
+To create a task list use list and a square brackets.
+
+- [x] Task 1
+- [x] Task 2
+- [x] Task 3
+- [ ] Task 4
+- [ ] Task 5
