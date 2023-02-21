@@ -30,7 +30,7 @@ First learn how to install compiler for C/C++ : `sudo pacman -S gcc`
 ## Learn C programming  
 
 Hello world program in C -
-```
+```c
 #include<stdio.h>
 int main(){
     printf("Hello World!!");
